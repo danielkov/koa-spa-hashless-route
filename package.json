@@ -1,0 +1,27 @@
+{
+  "name": "koa-spa-hashless-route",
+  "version": "0.1.0",
+  "description": "Koa JS middleware for hashless routing for single page applications, such as Angular JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/koa-spa-hashless-route.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "route",
+    "js",
+    "javascript",
+    "node"
+  ],
+  "author": "Daniel Kovacs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielkov/koa-spa-hashless-route/issues"
+  },
+  "homepage": "https://github.com/danielkov/koa-spa-hashless-route#readme"
+}
