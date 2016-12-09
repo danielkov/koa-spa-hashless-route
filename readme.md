@@ -28,3 +28,5 @@ app
 app.listen(3000);
 
 ```
+
+For more options see [koa-send](https://github.com/koajs/send) documentation.
